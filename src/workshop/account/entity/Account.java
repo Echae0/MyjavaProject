@@ -59,5 +59,4 @@ public class Account extends Object{
 				+ ", acctId=" + acctId + ", balance=" + balance + "]";
 	}
 	
-	
 }
